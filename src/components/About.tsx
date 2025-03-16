@@ -16,7 +16,7 @@ const About = () => {
             <MotionWrapper delay={200}>
               <div className="space-y-6">
                 <p className="text-lg">
-                  With a foundation in Industrial Engineering, I've built a multifaceted career spanning Government, Manufacturing, and Technology sectors. My expertise lies in bridging technical knowledge with practical industry applications.
+                  I'm <span className="font-semibold">Imam Mukhri</span>, an Industrial Engineer who has built a multifaceted career spanning Government, Manufacturing, and Technology sectors. My expertise lies in bridging technical knowledge with practical industry applications.
                 </p>
                 <p>
                   I specialize in Management Systems and Product Certification, including SNI and Halal Certification. My technical proficiency extends to programming (Python, HTML, JavaScript) and data science, allowing me to deliver comprehensive solutions that combine engineering precision with innovative technology.

@@ -38,10 +38,12 @@ const Index = () => {
   return (
     <div className="min-h-screen flex flex-col overflow-x-hidden">
       <Header />
-      <main>
+      <main className="space-y-16 md:space-y-24">
         <Hero />
         <About />
+        <div className="h-16 md:h-24"></div> {/* Extra spacing */}
         <Portfolio />
+        <div className="h-16 md:h-24"></div> {/* Extra spacing */}
         <Contact />
       </main>
       <Footer />
