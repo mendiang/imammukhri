@@ -85,7 +85,7 @@ const About = () => {
               {[
                 {
                   title: "Government",
-                  description: "Developed regulatory frameworks and certification standards for industrial compliance, enhancing public safety and product quality."
+                  description: "Doing assessment based on regulatory that has been developed, enhancing public safety and product quality."
                 },
                 {
                   title: "Manufacturing",

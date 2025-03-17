@@ -34,12 +34,12 @@ const Header = () => {
             href="#top" 
             className="text-xl font-semibold tracking-tight"
           >
-            <span className="text-primary">E</span>ngineer.
+            <span className="text-primary">I</span>M
           </a>
           
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-8">
-            <NavLinks className="text-sm" />
+          <div className="hidden md:flex items-center space-x-12">
+            <NavLinks className="text-sm space-x-12" />
             <Button 
               asChild 
               className="rounded-full px-6"
